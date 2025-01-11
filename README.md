@@ -4,8 +4,6 @@ This repository contains a case study project focused on analyzing job market tr
 
 ### Project Overview
 
-This case study demonstrates the use of Power BI to:
-
 - Clean and preprocess a job posting dataset using Power Query.
 - Perform exploratory data analysis (EDA) to uncover trends in skills, salaries, and job roles.
 - Build interactive and insightful dashboards to support business decision-making.
